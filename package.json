@@ -10,7 +10,7 @@
 		"format": "prettier --write --ignore-unknown ."
 	},
 	"dependencies": {
-		"@reduxjs/toolkit": "^1.9.7",
+		"@reduxjs/toolkit": "^2.0.1",
 		"@vitejs/plugin-react": "^4.1.0",
 		"date-fns": "^2.30.0",
 		"lodash": "^4.17.21",
